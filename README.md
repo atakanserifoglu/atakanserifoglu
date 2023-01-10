@@ -1,4 +1,5 @@
 My name is Atakan Şerifoğlu 
--  18 | he / him
--  I’m a freshman in Bilkent University, studying Computer Science
--  I am currently learning to code with Java.
+-  20 | he / him
+-  I’m a sophomore in Bilkent University, studying Computer Science
+-  I enjoy coding with Java, C++ and Python.
+-  I know HTML,CSS and various JavaScript frameworks.
